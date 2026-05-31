@@ -332,7 +332,7 @@ body{
 #new-letter .container{
   max-width: 992px;
   margin: auto;
-  color: #fff;
+  color: #000;
 }
 #new-letter form{
   display: flex;
